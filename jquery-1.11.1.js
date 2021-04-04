@@ -569,7 +569,7 @@ jquery.each("Boolean Number String Function Array Date RegExp Object Error".spli
 
 function isArraylike( obj ) {
 	var length = obj.length,
-		type = jQuery.type( obj );
+		type = jquery.type( obj );
 
 	if ( type === "function" || jQuery.isWindow( obj ) ) {
 		return false;
