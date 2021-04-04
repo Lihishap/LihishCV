@@ -33,7 +33,7 @@ body {
  ============================================================ */
 #header {
     background-color: #0C739B;
-     background: url(https://www.wallpaperbetter.com/wallpaper/209/845/274/coffee-cup-apple-working-bedroom-macbook-computer-break-cake-food-1080P-wallpaper.jpg) no-repeat center center;
+     background: url(https://png.pngtree.com/thumb_back/fw800/back_pic/03/70/17/5357b5b77a0f80c.jpg) no-repeat center center;
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
@@ -95,21 +95,6 @@ color: #FFFFFF;
     text-decoration:none;
     margin-right:10px;
 
-}
-{<h1>fa fa-linkedin-square</h1>
-
-<i class="fa fa-linkedin-square"></i>
-<i class="fa fa-linkedin-square" style="font-size:24px"></i>
-<i class="fa fa-linkedin-square" style="font-size:36px"></i>
-<i class="fa fa-linkedin-square" style="font-size:48px;color:red"></i>
-<br>
-
-<p>Used on a button:</p>
-<button style="font-size:24px">Button <i class="fa fa-linkedin-square"></i></button>
-
-<p>Unicode:</p>
-<i style="font-size:24px" class="fa">&#xf08c;</i>
-}
  {
       direction: rtl;
       background-image: url("1.jpg");
