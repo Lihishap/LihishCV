@@ -563,7 +563,7 @@ jquery.extend({
 });
 
 // Populate the class2type map
-jQuery.each("Boolean Number String Function Array Date RegExp Object Error".split(" "), function(i, name) {
+jquery.each("Boolean Number String Function Array Date RegExp Object Error".split(" "), function(i, name) {
 	class2type[ "[object " + name + "]" ] = name.toLowerCase();
 });
 
